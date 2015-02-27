@@ -1,0 +1,11 @@
+# Ignore the workspace
+*.cws
+
+# Ignore the executables
+*.exe
+
+# Ignore the builds
+cvibuild.MB
+
+# Ignore output text files
+*.txt
